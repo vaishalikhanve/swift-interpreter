@@ -1,0 +1,4 @@
+if(a.size!=0
+{
+ print("helloworld")
+ }
